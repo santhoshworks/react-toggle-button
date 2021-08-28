@@ -1,0 +1,19 @@
+{
+  "name": "react-toggle-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshworks/react-toggle-button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhoshworks/react-toggle-button/issues"
+  },
+  "homepage": "https://github.com/santhoshworks/react-toggle-button#readme"
+}
