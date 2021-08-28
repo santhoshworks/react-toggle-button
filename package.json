@@ -1,8 +1,8 @@
 {
-  "name": "react-toggle-button",
+  "name": "@santhoshworks/react-toggle-button",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/santhoshworks/react-toggle-button/issues"
   },
-  "homepage": "https://github.com/santhoshworks/react-toggle-button#readme"
+  "homepage": "https://github.com/santhoshworks/react-toggle-button#readme",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.3.1"
+  }
 }
